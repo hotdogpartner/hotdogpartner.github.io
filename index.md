@@ -1,10 +1,10 @@
 ---
 layout: default
-title: senan kelly
+title: Faolan Hunter
 ---
 
 # about
-  -- [cpssd](https://cpssd.net/) student from co. kildare, ireland  
+  -- college dropout, electron wrangler, mayonaise man  
   -- [more]({{ site.baseurl }}/about)
 
 # blog posts
