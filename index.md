@@ -10,4 +10,4 @@ title: Faolan Hunter
 # blog posts
 {% include blogs.md %}
 
-<img class="fullwidth" src="{{ site.baseurl }}/purdy.jpg">
+<img class="fullwidth" src="{{ site.baseurl }}/zappa.jpg">
