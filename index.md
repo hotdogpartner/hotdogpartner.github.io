@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Faolan Hunter
+title: Faolan Kiuchi
 ---
 
 # about
-  -- college dropout, electron wrangler, mayonaise man  
+  -- mayonaise man  
   -- [more]({{ site.baseurl }}/about)
 
 # blog posts
