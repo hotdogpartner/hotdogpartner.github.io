@@ -1,5 +1,5 @@
-name: faolan hunter
-description: college dropout, electron wrangler, mayonaise man
+name: Faolan Kiuchi
+description: mayonaise man
 timezone: Europe/Dublin
 permalink: /blog/:title
 google_verification: null
@@ -20,7 +20,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Faolan Hunter"
+      author: "Faolan Kiuchi"
 
 exclude:
     - CNAME
